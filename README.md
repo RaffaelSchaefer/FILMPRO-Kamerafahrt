@@ -4,7 +4,7 @@
 Eine Blender Datei welche eine Kamerafahrt für Screenshots enthält.
 
 
-## Authors
+## Autor
 
 - Raffael E. Schäfer (s20a3c@umwelt-campus.de)
 
@@ -14,7 +14,7 @@ Eine Blender Datei welche eine Kamerafahrt für Screenshots enthält.
 ![Screenshot](https://github.com/RaffaelSchaefer/FILMPRO-Kamerafahrt/blob/master/Source/README/Render.png?raw=true)
 
   
-## Features
+## Funktionen
 
 - LCD Display mit Pixelmatrix
 - Alles frei einstellbar
@@ -35,8 +35,8 @@ Am besten 1920*1080px aber jedes Bild mit einem 16:9 ratio geht.
 Schreib mir einfach eine Email an s20a3c@umwelt-campus.de
 
   
-## License
+## Lizenz
 
-[MIT](https://choosealicense.com/licenses/mit/)
+[Lizenz](https://choosealicense.com/licenses/unlicense/)
 
   
