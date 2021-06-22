@@ -22,7 +22,7 @@ Eine Blender Datei welche eine Kamerafahrt für Screenshots enthält.
   
 ## FAQ
 
-#### Was brauche ich alles um dieses Tool zu nutzten
+#### Was brauche ich alles um diese Datei zu nutzten
 
 Du brauchst einfach nur das Programm Blender und dein Screenshot/Screencast
 
