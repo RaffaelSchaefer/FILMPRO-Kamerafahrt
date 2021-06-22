@@ -11,7 +11,7 @@ Eine Blender Datei welche eine Kamerafahrt für Screenshots enthält.
   
 ## Screenshots
 
-![Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Screenshot](https://github.com/RaffaelSchaefer/FILMPRO-Kamerafahrt/blob/master/Source/README/Render.png?raw=true)
 
   
 ## Features
