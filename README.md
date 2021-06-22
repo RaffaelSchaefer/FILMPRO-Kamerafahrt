@@ -9,7 +9,7 @@ Eine Blender Datei welche eine Kamerafahrt für Screenshots enthält.
 - Raffael E. Schäfer (s20a3c@umwelt-campus.de)
 
   
-## Screenshots
+## Screenshot
 
 ![Screenshot](https://github.com/RaffaelSchaefer/FILMPRO-Kamerafahrt/blob/master/Source/README/Render.png?raw=true)
 
